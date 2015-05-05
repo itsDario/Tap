@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\CharacterMovementFire.js">
+    <Files>
+      <File FileName="assets\Scripts\playerHealth.js" Line="22" Column="40" />
+      <File FileName="assets\Scripts\ammoScript.js" Line="20" Column="2" />
+      <File FileName="assets\Scripts\PlayerFollow.js" Line="8" Column="2" />
+      <File FileName="assets\Scripts\CharacterMovementFire.js" Line="57" Column="3" />
+      <File FileName="assets\Standard Assets\Cameras\Scripts\FreeLookCam.cs" Line="3" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

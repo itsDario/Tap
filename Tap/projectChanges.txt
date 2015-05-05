@@ -1,0 +1,36 @@
+Hello 
+The Project is linked below 
+here is the changelog
+
+e-mailed week1
+just the basic first room 
+
+feed back:
+the game needs feedback and more stuff
+
+changed and presented week 2
+added a room2 and  enemies  that shoot back. 
+other sounds and effects in progress
+
+feedback
+its sometimes hard to see the enter sign on the first elevator.
+victory screen unreachable
+player can fall forever
+game still lacks explosions and other types of feedback
+
+changed and presented week3
+added explosions 
+very little sound effects
+a way to finish the game
+score system
+hp bar 
+set elevator up so the Enter Sign always shows.
+
+feed back
+killing first enemy on the first stage then changing the goal to reaching the end on the 2nd stage causes confusion
+the single enemy is easy to defeat in some situations
+
+changed and e-mailed this week
+
+changed goal to enter elevator.
+small BugFix where unneeded text showed up on screen in larger screens
