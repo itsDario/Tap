@@ -15,11 +15,24 @@ function FixedUpdate () {
 		moveToPlayer();
 	}
 	
-	agent.SetDestination(player.transform.position);
+	moveToPlayer();
+//	agent.SetDestination(player.transform.position);
 }
 
 function moveToPlayer(){
-	agent.SetDestination(player.transform.position);
+	if(player != null){
+		var dist = Vector3.Distance(player.transform.position, transform.position);
+//		print ("Distance to other: " + dist);
+		if(dist > 30){
+			agent.SetDestination(player.transform.position);
+			agent.Resume();
+			if(dist > 30){
+			}
+		}else{
+			agent.Stop();
+//			GetComponent <rigidbody>(). 
+		}
+	}
 }
 /*
 public class EnemyMovement : MonoBehaviour

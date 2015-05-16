@@ -5,7 +5,7 @@ var fireRate: float;
 private var moveSpeed: float = 500;
 private var lastFire: float;
 private var target: Vector3 = new Vector3(0,1,100);
-private var cameraSpeed: float = 150;
+var cameraSpeed: float = 150;
 
 function Start () {
 
